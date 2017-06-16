@@ -5,7 +5,7 @@ This repo is for [Udacity](https://www.udacity.com/)'s Front End Frameworks cour
 ## Required software
 
 * [Git](https://git-scm.com/)
-* [Bower](http://bower.io/)
+* [Bower](http://bower.io/) npm install bower
 
 ## Getting set up
 
