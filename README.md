@@ -11,6 +11,7 @@ This repo is for [Udacity](https://www.udacity.com/)'s Front End Frameworks cour
 
 ### Set up the project
 * clone this repo
+git clone https://...
 * `cd` into the newly cloned project
 * install Bower dependencies via `bower install`
 
